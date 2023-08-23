@@ -1,5 +1,7 @@
 Build and customize your own ChatGPT-like web app using Next.js and the OpenAI API. The provided code serves as a foundation, and you can customize it to fit your specific use case.
 
+<img alt="Screenshot" src="./public/img/screenshot.png" height="75%" width="75%"/>
+
 ## Prerequisites
 
 1. Node.js and npm or yarn installed
