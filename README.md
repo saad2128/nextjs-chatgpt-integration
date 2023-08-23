@@ -8,7 +8,7 @@ Build and customize your own ChatGPT-like web app using Next.js and the OpenAI A
 ## Tutorial
 
 1. Clone the repository and navigate to the project directory.
-1. Install the required dependencies:
+2. Install the required dependencies:
 
 ```
 npm install
@@ -18,12 +18,12 @@ or
 yarn
 ```
 
-1. Create a `.env.local` file in the project root and add your OpenAI API key:
+3. Create a `.env.local` file in the project root and add your ChatGPT API key:
 ```
-OPENAI_API_KEY=your_openai_api_key
+CHATGPT_API_KEY=your_chatgpt_api_key
 ```
 
-1. Start the development server:
+4. Start the development server:
 ```
 npm run dev
 ```
@@ -32,8 +32,8 @@ or
 yarn dev
 ```
 
-1. Open your browser and navigate to http://localhost:3000 to access the application.
-1. You can now interact with the chatbot using the input field at the bottom of the screen.
+5. Open your browser and navigate to http://localhost:3000 to access the application.
+6. You can now interact with the chatbot using the input field at the bottom of the screen.
 
 
 ## Overview
